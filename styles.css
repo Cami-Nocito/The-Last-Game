@@ -406,6 +406,11 @@ h3 {
         font-size: 12px;
     }
 
+        .contenedor-contacto {
+        flex-direction: column;
+        align-items: center;
+    }
+
     .contacto h2 {
         font-size: 1.5rem;
     }
